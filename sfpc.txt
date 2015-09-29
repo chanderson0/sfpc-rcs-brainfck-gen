@@ -1,0 +1,18 @@
+
+
+   SSSSSSSSSSSSSSS      FFFFFFFFFFFFFFFFFFFFFF     PPPPPPPPPPPPPPPPP                CCCCCCCCCCCCC
+ SS:::::::::::::::S     F::::::::::::::::::::F     P::::::::::::::::P            CCC::::::::::::C
+S:::::SSSSSS::::::S     F::::::::::::::::::::F     P::::::PPPPPP:::::P         CC:::::::::::::::C
+S:::::S     SSSSSSS     FF::::::FFFFFFFFF::::F     PP:::::P     P:::::P       C:::::CCCCCCCC::::C
+S:::::S                   F:::::F       FFFFFF       P::::P     P:::::P      C:::::C       CCCCCC
+S:::::S                   F:::::F                    P::::P     P:::::P     C:::::C              
+ S::::SSSS                F::::::FFFFFFFFFF          P::::PPPPPP:::::P      C:::::C              
+  SS::::::SSSSS           F:::::::::::::::F          P:::::::::::::PP       C:::::C              
+    SSS::::::::SS         F:::::::::::::::F          P::::PPPPPPPPP         C:::::C              
+       SSSSSS::::S        F::::::FFFFFFFFFF          P::::P                 C:::::C              
+            S:::::S       F:::::F                    P::::P                 C:::::C              
+            S:::::S       F:::::F                    P::::P                  C:::::C       CCCCCC
+SSSSSSS     S:::::S     FF:::::::FF                PP::::::PP                 C:::::CCCCCCCC::::C
+S::::::SSSSSS:::::S     F::::::::FF                P::::::::P                  CC:::::::::::::::C
+S:::::::::::::::SS      F::::::::FF                P::::::::P                    CCC::::::::::::C
+ SSSSSSSSSSSSSSS        FFFFFFFFFFF                PPPPPPPPPP                       CCCCCCCCCCCCC
