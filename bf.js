@@ -49,7 +49,7 @@ function translate(input, i) {
       format(bfCode, bfOutput, i);
     }
 
-    if (searchRegex.test(input[c])) {
+    if (searchRegex.test(bfOutput)) {
       format(bfCode, bfOutput, i);
       console.log('!!!!DONE!!!!');
       process.exit();
