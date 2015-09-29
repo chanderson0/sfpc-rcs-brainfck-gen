@@ -1,5 +1,7 @@
 ## Brainf*ck pretty image generator
 
+![example](https://cloud.githubusercontent.com/assets/73099/10171403/ff8147d8-66a7-11e5-8f18-77c1aebab183.png)
+
 ### What?
 
 This software replaces all non-whitespace characters in stdin with [Brainf*ck](https://en.wikipedia.org/wiki/Brainfuck) compatible characters, then runs it. It searches the output for a search string, and terminates when it finds that string.
